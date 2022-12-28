@@ -1,5 +1,5 @@
 # EvilMC
-This is a discord bot that crashes minecraft servers using exploits.
+Discord bot that crashes minecraft servers using exploits.
 > It does not work on all servers.
 
 > And this project was unfinished 
